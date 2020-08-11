@@ -1,6 +1,6 @@
-# Resoureces
+# Resources
 
 ## English
 
 ### Writing
-[BBC writers][https://bbc.co.uk/writersroom]
+[BBC writersroom](https://bbc.co.uk/writersroom)
